@@ -1,6 +1,6 @@
 import random
 
-print('Your password: ')
+print('Your new password is: ')
 
 chars = 'qwertyuiopasdfghjklzxcvbnm1234567890!@#$%^&*()?'
 
